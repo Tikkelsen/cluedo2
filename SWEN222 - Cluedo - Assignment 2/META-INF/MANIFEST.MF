@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SWEN222_-_Cluedo_-_Assignment_2
+Bundle-SymbolicName: SWEN222_-_Cluedo_-_Assignment_2
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .,
+ controller,
+ model,
+ view
